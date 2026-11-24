@@ -6,6 +6,11 @@
 
 A robot pickup line that writes exactly one line to the entry file.
 
+## Why it lands
+
+- The joke comes from a battery, not a heart.
+- The sentence fits in one breath.
+
 ## Run it
 
 ```
